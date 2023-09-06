@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    background-color: wheat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: darksalmon;
+}
+ul li{
+    text-align: justify;
+    margin: 5 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ol li{
+    text-align: justify;
+    margin :5 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+#lasaña{
+    display: flexbox ;
+    align-content: center;
+    justify-content: center;
+}
+#casita{
+    display: flex;
+    align-content: space-around;
+    justify-content: right;
+}
+#boton{
+    background-color: bisque;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+#casita:hover{
+    color: yellow;
+}

@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    background-color: wheat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: darksalmon;
+}
+#imagen{
+    display: flex ;
+    align-content: center;
+    justify-content: center;
+}
+#menu{
+    display: flex ;
+    align-content: center;
+    justify-content: center;
+}
+ul li a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+li a:hover{
+    color: blue;
+}
+li{
+    list-style: none;
+}
